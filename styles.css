@@ -1,0 +1,21 @@
+body {
+  background-image: url('bg.jpg');
+}
+iframe {
+  display:block;
+  margin: 30px auto;
+}
+
+h1 {
+  color: #395B64;
+  margin: 10px auto 20px;
+  font-size: 4rem;
+  text-align: center;
+}
+
+h3 {
+  color: #2C3333;
+  font-size: 1.5rem;
+  text-align: center;
+  margin: 0 250px;
+}
