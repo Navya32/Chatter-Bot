@@ -1,7 +1,8 @@
 # Chatter-Bot
 This is a project created for the purpose of learning and demonstration of Microsoft Azure skills during the Future Ready Talent Program.
 ## Demo-URL
-The Website is deployed using Azure Static Web App. The demo url: https://gray-rock-02354ae00.1.azurestaticapps.net/
+The Website is deployed using Azure Static Web App. The demo url: https://gray-rock-02354ae00.1.azurestaticapps.net/ <br/>
+Here is a clip showng its working: https://www.youtube.com/watch?v=OEmCghc4KMU
 Screenshot of the bot made using Azure Bot Service:
 ![ChatBot](https://user-images.githubusercontent.com/72815394/185680802-7ccf47c5-29f2-4a01-ae81-97110d9eabf2.png)
 Embedded the bot on a website using azure static web app and submitted its URL, screenshot of the web service:
